@@ -10,10 +10,15 @@ Welcome to Travels, your gateway to a world of wanderlust and exciting journeys.
 - [Contributing](#contributing)
 - [License](#license)
 
+## Screenshots
+![WhatsApp Image 2024-01-10 at 3 32 00 PM](https://github.com/akashch09/Site/assets/122875858/7b3dc899-7333-4b53-ae43-6705457064d3)
+
+
+
 ## About
 Travels is a visually stunning travel and tour website where you can discover the best destination places, explore complete tour packages, and read reviews from fellow travelers. It's your one-stop-shop for turning your travel dreams into reality.
 
-![Travels Preview](preview.png)
+
 
 ## Features
 - *Best Destination Places*: Explore breathtaking destinations with detailed information and captivating images.
