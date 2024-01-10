@@ -11,6 +11,24 @@ Welcome to Travels, your gateway to a world of wanderlust and exciting journeys.
 - [License](#license)
 
 ## Screenshots
+
+## Home Page
+![WhatsApp Image 2024-01-10 at 3 30 10 PM](https://github.com/akashch09/Site/assets/122875858/a114d825-ef6c-4fe2-9553-bd7ad59549a7)
+
+## Second page
+![WhatsApp Image 2024-01-10 at 3 30 26 PM](https://github.com/akashch09/Site/assets/122875858/30e40cbf-760a-405a-9054-10124ade0cbf)
+
+## Third Page
+![WhatsApp Image 2024-01-10 at 3 30 42 PM](https://github.com/akashch09/Site/assets/122875858/ed155d88-0d2b-42e1-ad6e-baaffd5769c8)
+
+## Login page
+![WhatsApp Image 2024-01-10 at 3 31 07 PM](https://github.com/akashch09/Site/assets/122875858/35a21498-9c39-46d9-b8bf-9b4c06658d14)
+
+## SignUp Page
+![WhatsApp Image 2024-01-10 at 3 31 22 PM](https://github.com/akashch09/Site/assets/122875858/592c0f6a-e3df-483a-8d3b-ec99eac23388)
+
+
+## Database
 ![WhatsApp Image 2024-01-10 at 3 32 00 PM](https://github.com/akashch09/Site/assets/122875858/7b3dc899-7333-4b53-ae43-6705457064d3)
 
 
