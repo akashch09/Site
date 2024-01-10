@@ -1,3 +1,5 @@
+## NOTE ## kindly Extract Linux.zip for the Rount 1 Task. 
+
 # Travels - Explore Your Next Adventure
 
 Welcome to Travels, your gateway to a world of wanderlust and exciting journeys. This website is designed to inspire, inform, and assist travel enthusiasts in planning their dream vacations.
