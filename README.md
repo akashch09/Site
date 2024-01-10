@@ -1,4 +1,4 @@
-## NOTE ## kindly Extract Linux.zip for the Rount 1 Task. 
+## NOTE ## kindly Extract Linux.zip for the Round 1 Task. 
 
 # Travels - Explore Your Next Adventure
 
